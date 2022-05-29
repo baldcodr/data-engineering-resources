@@ -6,4 +6,4 @@ Resources ranging from videos, books, articles, blogs, communities, online cours
 
 ## Communities
 * <a href="http://DataTalk.Club">DataTalk.Club</a>
-* <a href="http://reddit.com/r/data-engineering">Reddit Data Engineering</a>
+* <a href="https://www.reddit.com/r/dataengineering/">Reddit Data Engineering</a>
